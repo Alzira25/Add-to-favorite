@@ -1,4 +1,7 @@
- <!--Get Product details from database -->
+<?php 
+include("functions/functions.php");
+?>
+<!--Get Product details from database -->
  #code....
  #code...
  
